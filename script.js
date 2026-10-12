@@ -4,7 +4,7 @@
   /* ------------------------------------------------------------------
    * Configuration
    * ------------------------------------------------------------------ */
-  const API_BASE_URL = "http://127.0.0.1:8000";
+   const API_BASE_URL = "https://mental-health-predictor-en9h.onrender.com";
   const PREDICT_URL = `${API_BASE_URL}/predict`;
   const REQUEST_TIMEOUT_MS = 15000;
 
